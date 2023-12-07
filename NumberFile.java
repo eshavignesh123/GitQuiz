@@ -17,7 +17,6 @@ public class NumberFile {
 
             return sum;
         };
-        System.out.println("Sum = " + add.addNumbers(Integer.parseInt(args[0]), Integer.parseInt(args[1])));
     }
 
 }
